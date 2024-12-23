@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;7C6DBC73B47BCFF6A7744F6AECEDEBC2",
+    "spider": "./jar/Butterfly.jar;md5;262A678665AC3D5C727A8C812B31DFDF",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -41,6 +41,29 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "利奥影视",
+            "name": "利奥影视",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "低端影视",
+            "name": "低端影视",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "在线之家",
@@ -317,19 +340,6 @@
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
-            }
-        },
-        {
-            "key": "PanSso",
-            "name": "盘他┃三盘",
-            "type": 3,
-            "api": "csp_PanSso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
             }
         },
         {

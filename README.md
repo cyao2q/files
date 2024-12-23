@@ -14,8 +14,6 @@
 
 <https://raw.gitmirror.com/cyao2q/files/master/n.json>
 
-<https://ghp.ci/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
-
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
 
 ## TVBox [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
