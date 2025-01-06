@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;262A678665AC3D5C727A8C812B31DFDF",
+    "spider": "./jar/Butterfly.jar;md5;FF90F08636149D5AD8DFA91AF77B8955",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -98,6 +98,17 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
+            "key": "欢视多线",
+            "name": "欢视多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+        },
+        {
             "key": "原创影视",
             "name": "原创影视",
             "type": 3,
@@ -112,6 +123,16 @@
             "name": "糯米秒播",
             "type": 3,
             "api": "csp_Nmyswv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "白白秒播",
+            "name": "白白秒播",
+            "type": 3,
+            "api": "csp_Sbaibai",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
