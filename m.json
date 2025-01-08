@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;FF90F08636149D5AD8DFA91AF77B8955",
+    "spider": "./jar/Butterfly.jar;md5;199D292D646C6D3B0D6A2B37EB30F05B",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -23,20 +23,39 @@
             "ext": "https://www.czzyvideo.com/"
         },
         {
-            "key": "南瓜",
-            "name": "南瓜影视",
+            "key": "文采秒播",
+            "name": "文采秒播",
             "type": 3,
-            "api": "csp_NanGua",
+            "api": "csp_Jpys",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
         {
-            "key": "文采秒播",
-            "name": "文采秒播",
+            "key": "糯米秒播",
+            "name": "糯米秒播",
             "type": 3,
-            "api": "csp_Jpys",
+            "api": "csp_Nmyswv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "白白秒播",
+            "name": "白白秒播",
+            "type": 3,
+            "api": "csp_Sbaibai",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜影视",
+            "type": 3,
+            "api": "csp_NanGua",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -109,30 +128,52 @@
             "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
         },
         {
+            "key": "奥特影视",
+            "name": "奥特影视",
+            "type": 3,
+            "api": "csp_Auete",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://auete.com/"
+        },
+        {
+            "key": "新6V",
+            "name": "新6V磁力",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.xb6v.com/"
+        },
+        {
+            "key": "可可多线",
+            "name": "可可多线",
+            "type": 3,
+            "api": "csp_Kekys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "木星多线",
+            "name": "木星多线",
+            "type": 3,
+            "api": "csp_AppSx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+        },
+        {
             "key": "原创影视",
             "name": "原创影视",
             "type": 3,
             "api": "csp_YCyz",
             "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "糯米秒播",
-            "name": "糯米秒播",
-            "type": 3,
-            "api": "csp_Nmyswv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "白白秒播",
-            "name": "白白秒播",
-            "type": 3,
-            "api": "csp_Sbaibai",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
