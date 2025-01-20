@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;199D292D646C6D3B0D6A2B37EB30F05B",
+    "spider": "./jar/Butterfly.jar;md5;5EAAE4B083C5FC6C47C1CC0A204364B2",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -46,16 +46,6 @@
             "name": "白白秒播",
             "type": 3,
             "api": "csp_Sbaibai",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜影视",
-            "type": 3,
-            "api": "csp_NanGua",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
