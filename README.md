@@ -22,7 +22,7 @@
 
 [飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc) [当贝桌面](https://cyao.lanzov.com/iHODy16dojuj)
 
-[儿歌多多](https://cyao.lanzov.com/iNaO116domhe) [看电视](https://cyao.lanzov.com/iBjSN2imkwqb)
+[儿歌多多](https://cyao.lanzov.com/iNaO116domhe) [看电视](https://cyao.lanzov.com/icBw92m8z8ri)
 
 ## 油猴脚本
 
