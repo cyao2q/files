@@ -24,9 +24,11 @@
 
 [儿歌多多](https://cyao.lanzov.com/iNaO116domhe) [看电视](https://cyao.lanzov.com/icBw92m8z8ri)
 
-## 油猴脚本
+## 油猴脚本 [暴力猴](https://cyao2q.github.io/files/script/violentmonkey.crx)
 
 [破解VIP会员视频](https://cyao2q.github.io/files/script/crackvideo.user.js)
+
+[123云盘解锁](https://cyao2q.github.io/files/script/123pan.crack.js)
 
 ## 阅读APP自用书源
 
