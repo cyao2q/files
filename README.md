@@ -6,8 +6,6 @@
 
 配置地址选一个输入
 
-<http://肥猫.com>
-
 <http://www.饭太硬.com/tv>
 
 <https://cyao2q.github.io/files/n.json>

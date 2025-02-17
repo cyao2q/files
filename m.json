@@ -42,16 +42,6 @@
             "changeable": 1
         },
         {
-            "key": "白白秒播",
-            "name": "白白秒播",
-            "type": 3,
-            "api": "csp_Sbaibai",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "利奥影视",
             "name": "利奥影视",
             "type": 3,
@@ -144,26 +134,6 @@
             "type": 3,
             "api": "csp_Kekys",
             "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "木星多线",
-            "name": "木星多线",
-            "type": 3,
-            "api": "csp_AppSx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
-        },
-        {
-            "key": "原创影视",
-            "name": "原创影视",
-            "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
