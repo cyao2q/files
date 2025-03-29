@@ -11,16 +11,36 @@
             "filterable": 0
         },
         {
-            "key": "厂长影视",
-            "name": "厂长影视",
+            "key": "热播多线",
+            "name": "热播多线",
             "type": 3,
-            "api": "csp_NewCzGuard",
+            "api": "csp_AppTTGuard",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzyvideo.com/"
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+        },
+        {
+            "key": "萌米多线",
+            "name": "萌米多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
+        },
+        {
+            "key": "欢视多线",
+            "name": "欢视多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
         },
         {
             "key": "文采秒播",
@@ -87,38 +107,6 @@
             "changeable": 1
         },
         {
-            "key": "热播多线",
-            "name": "热播多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-        },
-        {
-            "key": "萌米多线",
-            "name": "萌米多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 15,
-            "playerType": 1,
-            "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
-        },
-        {
-            "key": "欢视多线",
-            "name": "欢视多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-        },
-        {
             "key": "奥特影视",
             "name": "奥特影视",
             "type": 3,
@@ -148,6 +136,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "厂长影视",
+            "name": "厂长影视",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzyvideo.com/"
         },
         {
             "key": "快看资源",
@@ -247,15 +247,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/kuqimv.js"
-        },
-        {
-            "key": "动漫巴士",
-            "name": "动漫巴士",
-            "type": 3,
-            "api": "csp_Dm84Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "异界动漫",
