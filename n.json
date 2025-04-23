@@ -69,10 +69,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
+            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "低端影视",
@@ -147,7 +144,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzyvideo.com/"
+            "ext": "https://www.czzymovie.com/"
         },
         {
             "key": "快看资源",
