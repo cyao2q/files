@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           破解VIP会员视频-优化整理版
 // @namespace      https://github.com/cyao2q/files
-// @version        1.1.9
+// @version        1.1.10
 // @description    一键破解[优酷|腾讯|乐视|爱奇艺]等会员视频
 // @author         漠星曜
 // @license        MIT
@@ -40,25 +40,31 @@
 /* jshint esversion:6 */
 
 (() => {
-  'use strict';
-  const YoukuIcon = '<svg width="1.2em" height="1.2em" viewbox="0 0 72 72"><defs><circle id="youkuC1" r="5.5" style="stroke:none;;fill:#0B9BFF;"></circle><path id="youkuArow" d="m0,10 a5,5 0,0,1 0,-10 h20 a5,5 0,0,1 0,10z" style="fill:#FF4242;"></path></defs><circle cx="36" cy="36" r="30.5" style="stroke:#30B4FF;stroke-width:11;fill:none;"></circle><use x="10.5" y="19" xlink:href="#youkuC1"/><use x="61.5" y="53" xlink:href="#youkuC1"/><use x="39" y="1" transform="rotate(30)" xlink:href="#youkuArow"/><use x="-1" y="52" transform="rotate(-35)" xlink:href="#youkuArow"/></svg>';
-  const VQQIcon = '<svg height="1.2em" width="1.2em" viewbox="0 0 185 170"><defs><path id="vQQ" d="M7 20Q14 -10 55 7Q100 23 145 60Q170 80 145 102Q108 138 47 165Q15 175 4 146Q-5 80 7 20"></path></defs><use style="fill:#44B9FD;" transform="translate(27,0)" xlink:href="#vQQ"></use><use style="fill:#FF9F01;" transform="translate(0,18),scale(0.8,0.75)" xlink:href="#vQQ"></use><use style="fill:#97E61B;" transform="translate(23,18),scale(0.80.75)" xlink:href="#vQQ"></use><use style="fill:#fff;" transform="translate(50,45),scale(0.4)" xlink:href="#vQQ"></use></svg>';
-  var tMscript = document.createElement('script');
-  tMscript.innerText = `q = function(cssSelector){return document.querySelector(cssSelector);};qa = function(cssSelector){return document.querySelectorAll(cssSelector);};`;
-  document.head.appendChild(tMscript);
-  window.q = function(cssSelector) {return document.querySelector(cssSelector);};
-  window.qa = function(cssSelector) {return document.querySelectorAll(cssSelector);};
-  window.makeEl = function(tag){return document.createElement(tag);};
-  
-  /* 兼容 Tampermonkey | Violentmonkey | Greasymonkey 4.0+ */
-  function GMaddStyle(cssText){
-    let a = document.createElement('style');
-    a.textContent = cssText;
-    let doc = document.head || document.documentElement;
-    doc.appendChild(a);
-  }
-  
-  GMaddStyle(`
+    'use strict';
+    const YoukuIcon = '<svg width="1.2em" height="1.2em" viewbox="0 0 72 72"><defs><circle id="youkuC1" r="5.5" style="stroke:none;;fill:#0B9BFF;"></circle><path id="youkuArow" d="m0,10 a5,5 0,0,1 0,-10 h20 a5,5 0,0,1 0,10z" style="fill:#FF4242;"></path></defs><circle cx="36" cy="36" r="30.5" style="stroke:#30B4FF;stroke-width:11;fill:none;"></circle><use x="10.5" y="19" xlink:href="#youkuC1"/><use x="61.5" y="53" xlink:href="#youkuC1"/><use x="39" y="1" transform="rotate(30)" xlink:href="#youkuArow"/><use x="-1" y="52" transform="rotate(-35)" xlink:href="#youkuArow"/></svg>';
+    const VQQIcon = '<svg height="1.2em" width="1.2em" viewbox="0 0 185 170"><defs><path id="vQQ" d="M7 20Q14 -10 55 7Q100 23 145 60Q170 80 145 102Q108 138 47 165Q15 175 4 146Q-5 80 7 20"></path></defs><use style="fill:#44B9FD;" transform="translate(27,0)" xlink:href="#vQQ"></use><use style="fill:#FF9F01;" transform="translate(0,18),scale(0.8,0.75)" xlink:href="#vQQ"></use><use style="fill:#97E61B;" transform="translate(23,18),scale(0.80.75)" xlink:href="#vQQ"></use><use style="fill:#fff;" transform="translate(50,45),scale(0.4)" xlink:href="#vQQ"></use></svg>';
+    var tMscript = document.createElement('script');
+    tMscript.innerText = `q = function(cssSelector){return document.querySelector(cssSelector);};qa = function(cssSelector){return document.querySelectorAll(cssSelector);};`;
+    document.head.appendChild(tMscript);
+    window.q = function (cssSelector) {
+        return document.querySelector(cssSelector);
+    };
+    window.qa = function (cssSelector) {
+        return document.querySelectorAll(cssSelector);
+    };
+    window.makeEl = function (tag) {
+        return document.createElement(tag);
+    };
+
+    /* 兼容 Tampermonkey | Violentmonkey | Greasymonkey 4.0+ */
+    function GMaddStyle(cssText) {
+        let a = document.createElement('style');
+        a.textContent = cssText;
+        let doc = document.head || document.documentElement;
+        doc.appendChild(a);
+    }
+
+    GMaddStyle(`
     /*TMHY:TamperMonkeyHuanYan*/
     #TMHYvideoContainer{z-index:999998;background:rgba(0,0,0,.7);position:fixed;top:7em;left:5em;height:65%;width:65%;resize:both;overflow:auto;box-shadow:2px 2px 5px 5px rgba(255,255,0,.8);}
     /*TMHYVideoContainer*/
@@ -80,37 +86,39 @@
     .TM3 li:first-child{border-radius:.35em .35em 0 0;}
     .TM1:hover .TM3{display:block;}
   `);
-  
-  var defaultapi = {
-    title: "Parwix解析",
-    url: "https://jx.jsonplayer.com/player/?url="
-  };
-  
-  var apis =[
-    {title:"parwix",url:"https://jx.jsonplayer.com/player/?url="},
-    {title:"xmflv",url:"https://jx.xmflv.com/?url="},
-    {title:"m1907",url:"https://im1907.top/?jx="},
-    {title:"bljiex",url:"https://vip.bljiex.com/?v="},
-    {title:"xyflv",url:"https://jx.xyflv.com/?url="},
-    {title:"aidouer",url:"https://jx.aidouer.net/?url="},
-    {title:"m3u8",url:"https://jx.m3u8.tv/jiexi/?url="},
-    {title:"ckmov",url:"https://www.ckmov.vip/api.php?url="},
-    {title:"zui",url:"https://jx.zui.cm/?url="},
-    {title:"mtosz",url:"https://www.mtosz.com/erzi.php?url="}
-  ];
 
-  /*  执行  */
-  var div = makeEl("div");
-  div.id = "TMHYd";
-  var txt = '', i = 0;
-  /*提供的接口列表*/
-  for (i in apis) {
-    txt += `<li data-order=${i} data-url="${apis[i].url}" title="${apis[i].title}" onclick="window.open(this.dataset.url+location.href)">${apis[i].title}</li>`;
-  }
-  div.innerHTML = `
+    var defaultapi = {
+        title: "纯净",
+        url: "https://im1907.top/?jx="
+    };
+
+    var apis = [
+        {"name": "纯净", "url": "https://im1907.top/?jx=", "mobile": 1},
+        {"name": "虾米", "url": "https://jx.xmflv.com/?url=", "mobile": 0},
+        {"name": "虾米2", "url": "https://jx.xmflv.cc/?url=", "mobile": 0},
+        {"name": "剖云", "url": "https://www.pouyun.com/?url=", "mobile": 0},
+        {"name": "七哥", "url": "https://jx.nnxv.cn/tv.php?url=", "mobile": 0},
+        {"name": "夜幕", "url": "https://www.yemu.xyz/?url=", "mobile": 0},
+        {"name": "云析", "url": "https://jx.yparse.com/index.php?url=", "mobile": 0},
+        {"name": "IK9", "url": "https://yparse.ik9.cc/index.php?url=", "mobile": 0},
+        {"name": "JY", "url": "https://jx.playerjy.com/?url=", "mobile": 0},
+        {"name": "PM", "url": "https://www.playm3u8.cn/jiexi.php?url=", "mobile": 0},
+        {"name": "M3U8", "url": "https://jx.m3u8.tv/jiexi/?url=", "mobile": 0},
+        {"name": "8090", "url": "https://www.8090g.cn/?url=", "mobile": 0}
+    ];
+
+    /*  执行  */
+    var div = makeEl("div");
+    div.id = "TMHYd";
+    var txt = '', i = 0;
+    /*提供的接口列表*/
+    for (i in apis) {
+        txt += `<li data-order=${i} data-url="${apis[i].url}" title="${apis[i].title}" onclick="window.open(this.dataset.url+location.href)">${apis[i].name}</li>`;
+    }
+    div.innerHTML = `
     <ul id="TMHYul">
       <li class="TM1"><span id="TMList" title="${defaultapi.title}" onclick="window.open(\'${defaultapi.url}\'+window.location.href)">▶</span><ul class="TM3 TM4">${txt}</ul></li>
     </ul>
   `;
-  document.body.appendChild(div);
+    document.body.appendChild(div);
 })();
