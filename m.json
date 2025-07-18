@@ -197,7 +197,7 @@
             "key": "MTV合集",
             "name": "MTV合集",
             "type": 1,
-            "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
+            "api": "https://open-yaolaikeji.koyeb.app/mv/vod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
