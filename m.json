@@ -65,21 +65,22 @@
             "key": "利奥影视",
             "name": "利奥影视",
             "type": 3,
-            "api": "csp_LibvioGuard",
+            "api": "./js/drpymin2.js",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.fun/"
+            "filterable": 1,
+            "ext": "./js/libvio.js"
         },
         {
-            "key": "低端影视",
+            "key": "低端影视-drpy",
             "name": "低端影视",
             "type": 3,
-            "api": "csp_DdrkGuard",
+            "api": "./js/drpymin2.js",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "./js/ddys.js"
         },
         {
             "key": "在线之家",
@@ -123,39 +124,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
-        },
-        {
-            "key": "可可多线",
-            "name": "可可多线",
-            "type": 3,
-            "api": "csp_KekysGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "厂长影视",
-            "name": "厂长影视",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzymovie.com/"
-        },
-        {
-            "key": "快看资源",
-            "name": "快看资源",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "jar": "./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
         },
         {
             "key": "SP2345",
@@ -204,38 +172,6 @@
             "changeable": 0
         },
         {
-            "key": "利奥影视JS",
-            "name": "利奥影视JS",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/libvio.js"
-        },
-        {
-            "key": "低端影视JS",
-            "name": "低端影视JS",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/ddys.js"
-        },
-        {
-            "key": "荐片影视JS",
-            "name": "荐片影视JS",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/荐片.js"
-        },
-        {
             "key": "酷奇MV",
             "name": "酷奇MV",
             "type": 3,
@@ -259,6 +195,16 @@
             "name": "日本动漫",
             "type": 3,
             "api": "csp_Anime1Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "低端影视-jar",
+            "name": "低端影视",
+            "type": 3,
+            "api": "csp_DdrkGuard",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
