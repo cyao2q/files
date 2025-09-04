@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;FC80617EEB21BBD015099C61D262940B",
+    "spider": "./jar/Butterfly.jar;md5;A6949AD1C4D059DA3C7DC9321AA95A97",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -117,14 +117,13 @@
             "ext": "https://www.xb6v.com/"
         },
         {
-            "key": "SP2345",
-            "name": "2345影视",
+            "key": "csp_SP360",
+            "name": "360影视",
             "type": 3,
-            "api": "csp_SP2345",
+            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
+            "filterable": 1
         },
         {
             "key": "哔哩歌曲",
