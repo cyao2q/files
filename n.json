@@ -333,6 +333,11 @@
             "url": "https://jx.xmflv.com/?url="
         },
         {
+            "name": "pouyun",
+            "type": 0,
+            "url": "https://www.pouyun.com/?url="
+        },
+        {
             "name": "yemu",
             "type": 0,
             "url": "https://www.yemu.xyz/?url="
