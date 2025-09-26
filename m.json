@@ -96,27 +96,6 @@
             "changeable": 1
         },
         {
-            "key": "奥特影视",
-            "name": "奥特影视",
-            "type": 3,
-            "api": "csp_AueteGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.com/"
-        },
-        {
-            "key": "新6V",
-            "name": "新6V磁力",
-            "type": 3,
-            "api": "csp_SixVGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://www.xb6v.com/"
-        },
-        {
             "key": "csp_SP360",
             "name": "360影视",
             "type": 3,
@@ -160,16 +139,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "酷奇MV",
-            "name": "酷奇MV",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/kuqimv.js"
         },
         {
             "key": "异界动漫",
