@@ -34,16 +34,6 @@
             "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
         },
         {
-            "key": "文采秒播",
-            "name": "文采秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "糯米秒播",
             "name": "糯米秒播",
             "type": 3,
