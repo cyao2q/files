@@ -3,7 +3,7 @@
     "sites": [
         {
             "key": "豆豆推荐",
-            "name": "豆豆推荐",
+            "name": "公众号|不会唱歌的鱼妖",
             "type": 3,
             "api": "csp_DouDouGuard",
             "searchable": 0,
