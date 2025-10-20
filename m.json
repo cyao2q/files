@@ -11,6 +11,15 @@
             "filterable": 0
         },
         {
+            "key": "糯米秒播",
+            "name": "糯米秒播",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "热播多线",
             "name": "热播多线",
             "type": 3,
@@ -32,15 +41,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-        },
-        {
-            "key": "糯米秒播",
-            "name": "糯米秒播",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "利奥影视",

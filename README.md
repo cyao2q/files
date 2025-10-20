@@ -2,7 +2,7 @@
 
 <https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
-## 求捐赠 微信公众号 不会唱歌的鱼妖！！！
+## 求捐赠 微信公众号 不会唱歌的鱼妖
 <img src="./images/qrcode.png" />
 <img src="./images/donate.png" />
 
