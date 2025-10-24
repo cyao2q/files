@@ -131,6 +131,17 @@
             "changeable": 0
         },
         {
+            "key": "兔小贝-drpy",
+            "name": "儿童启蒙",
+            "type": 3,
+            "api": "./js/drpymin2.js",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/tuxiaobei.js"
+        },
+        {
             "key": "异界动漫",
             "name": "异界动漫",
             "type": 3,
