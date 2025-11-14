@@ -44,7 +44,7 @@
 
 <https://cyao2q.github.io/files/ext/EasyList.txt>
 
-<https://cyao2q.github.io/files/ext/uBlock.txt>
+<https://bitbucket.org/hacamer/adrules/raw/main/adblock.txt>
 
 <https://filters.adtidy.org/android/filters/2_optimized.txt>
 
