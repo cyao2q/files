@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Butterfly.jar;md5;53D5D9F606F1FE0EE1B3DE32D7B0CFE2",
+    "spider": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B",
     "sites": [
         {
             "key": "豆豆推荐",
@@ -11,15 +11,6 @@
             "filterable": 0
         },
         {
-            "key": "糯米秒播",
-            "name": "糯米秒播",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "热播多线",
             "name": "热播多线",
             "type": 3,
@@ -29,7 +20,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+            "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
             "key": "欢视多线",
@@ -40,17 +31,85 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+            "ext": "uqGL1bNENExT9fFAy5mE5qU="
         },
         {
-            "key": "利奥影视",
-            "name": "利奥影视",
+            "key": "立播秒播",
+            "name": "立播秒播",
             "type": 3,
-            "api": "./js/drpymin2.js",
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/libvio.js"
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "厂长秒播",
+            "name": "厂长秒播",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文采秒播",
+            "name": "文采秒播",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "剧圈多线",
+            "name": "剧圈多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprGv+T3siLQwtXglSghatTiFVdOcF8X8jEp+aRrf/FNw9F962OYcJdY2CMy/nlgFeo4R9+I8K2FSnLnGP2FxOijR2T52RQ6NwQWv5XyDxPxRcMHTslu7SYeFlb8EuDsyEz4Dg=="
+        },
+        {
+            "key": "下饭多线",
+            "name": "下饭多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
+        },
+        {
+            "key": "鲸鱼多线",
+            "name": "鲸鱼多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
+        },
+        {
+            "key": "苹果影视",
+            "name": "苹果影视",
+            "type": 3,
+            "api": "csp_LiteAppleGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "原创影视",
@@ -136,15 +195,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "苹果影视",
-            "name": "苹果影视",
-            "type": 3,
-            "api": "csp_LiteAppleGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "量子资源",
