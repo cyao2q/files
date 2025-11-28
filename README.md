@@ -20,8 +20,6 @@
 
 <https://cyao2q.github.io/files/n.json>
 
-<https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json>
-
 ## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf) 密码 666
 
 ## 盒子软件
@@ -40,7 +38,7 @@
 
 <https://cyao2q.github.io/yuedu/>
 
-## 广告过滤规则
+## 广告过滤规则 <https://cyao2q.github.io/filters>
 
 <https://cyao2q.github.io/files/ext/EasyList.txt>
 
