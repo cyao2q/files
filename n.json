@@ -112,17 +112,6 @@
             "changeable": 1
         },
         {
-            "key": "原创影视",
-            "name": "原创影视",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 15,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_SP360",
             "name": "360影视",
             "type": 3,
@@ -130,6 +119,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "哔哩明星",
+            "name": "哔哩明星",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "json": "./ext/bilimx.json"
+            }
         },
         {
             "key": "哔哩歌曲",
@@ -158,16 +160,6 @@
             }
         },
         {
-            "key": "MTV合集",
-            "name": "MTV合集",
-            "type": 1,
-            "api": "https://open-yaolaikeji.koyeb.app/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
             "key": "兔小贝-drpy",
             "name": "儿童启蒙",
             "type": 3,
@@ -177,6 +169,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/tuxiaobei.js"
+        },
+        {
+            "key": "巴士动漫",
+            "name": "巴士动漫",
+            "type": 3,
+            "api": "csp_Dm84Guard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "异界动漫",
