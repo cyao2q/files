@@ -23,17 +23,6 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "欢视多线",
-            "name": "欢视多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "uqGL1bNENExT9fFAy5mE5qU="
-        },
-        {
             "key": "立播秒播",
             "name": "立播秒播",
             "type": 3,
@@ -326,16 +315,6 @@
             "name": "pouyun",
             "type": 0,
             "url": "https://www.pouyun.com/?url="
-        },
-        {
-            "name": "yemu",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url="
-        },
-        {
-            "name": "77flv",
-            "type": 0,
-            "url": "https://jx.77flv.cc/?url="
         },
         {
             "name": "xymp4",
