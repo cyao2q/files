@@ -16,7 +16,7 @@
 
 <http://肥猫.com>
 
-<http://ok321.top/tv>
+<http://ok213.top/tv>
 
 <http://www.饭太硬.com/tv>
 
