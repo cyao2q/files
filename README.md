@@ -2,11 +2,11 @@
 
 <https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
-## [支付宝捐赠链接](alipayqr://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx196307iezhvjarhfygd4)
+## [支付宝捐赠](alipayqr://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx196307iezhvjarhfygd4)
 
 ## 求捐赠 微信公众号 不会唱歌的鱼妖
+<img src="./images/donate.png" title="请使用微信扫码捐赠"/>
 <img src="./images/qrcode.png" />
-<img src="./images/donate.png" />
 
 ## 聚合下载 <https://link3.cc/cyao>
 
