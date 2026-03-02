@@ -6,7 +6,6 @@
 
 ## 求捐赠 微信公众号 不会唱歌的鱼妖
 <img src="./images/donate.png" title="请使用微信扫码捐赠"/>
-<img src="./images/qrcode.png" />
 
 ## 聚合下载 <https://link3.cc/cyao>
 
@@ -20,7 +19,7 @@
 
 <http://www.饭太硬.com/tv>
 
-<https://cyao2q.github.io/files/n.json>
+<https://cyao2q.github.io/files/m.json>
 
 ## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf) 密码 666
 
