@@ -387,22 +387,6 @@
             "timeout": 10
         },
         {
-            "key": "紫金弹幕版",
-            "name": "🍇紫金┃弹幕",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "AppFox",
-                "danmu": true,
-                "siteUrl": "https://www.zjcvod.com"
-            },
-            "timeout": 10
-        },
-        {
             "key": "独播弹幕版",
             "name": "👠独播┃弹幕",
             "type": 3,
