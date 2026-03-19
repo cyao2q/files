@@ -9,7 +9,7 @@
 
 ## 聚合下载 <https://link3.cc/cyao>
 
-## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [OK版](https://cyao.lanzov.com/b038ypj3ze) [蜂蜜版](https://cyao.lanzov.com/b038z68a2j) 密码 666 
+## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [OK版](https://cyao.lanzov.com/b038ypj3ze?pwd=666) [蜂蜜版](https://cyao.lanzov.com/b038z68a2j?pwd=666)
 
 配置地址选一个输入
 
@@ -21,7 +21,7 @@
 
 <https://cyao2q.github.io/files/m.json>
 
-## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf) 密码 666
+## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf?pwd=666)
 
 ## 盒子软件
 
