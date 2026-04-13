@@ -29,7 +29,7 @@
 
 [儿歌多多](https://cyao.lanzov.com/iNaO116domhe) [看电视](https://cyao.lanzov.com/iLlBk2uofwyd)
 
-## 油猴脚本 [暴力猴](https://cyao2q.github.io/files/script/violentmonkey.crx)
+## 油猴脚本
 
 [破解VIP会员视频](https://cyao2q.github.io/files/script/crack.video.js)
 

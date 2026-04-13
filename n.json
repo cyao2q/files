@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🤓公众号┃不会唱歌的鱼妖",
+            "name": "🤓公众号┃不会唱歌的鱼妖 (关注不迷路)",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 0,
@@ -291,6 +291,9 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
+            "style": {
+                "type": "list"
+            },
             "ext": {
                 "sp": "LeiJing"
             },
@@ -309,6 +312,21 @@
                 "sp": "Time123"
             },
             "timeout": 25
+        },
+        {
+            "key": "七味",
+            "name": "🌈七味┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "QiWei",
+                "danmu": true
+            },
+            "timeout": 30
         },
         {
             "key": "瓜子",
@@ -368,21 +386,6 @@
                 "sp": "TianTian",
                 "danmu": true,
                 "site": 0
-            },
-            "timeout": 10
-        },
-        {
-            "key": "雄鹰弹幕版",
-            "name": "🦅雄鹰┃弹幕",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "XiongYing",
-                "danmu": true
             },
             "timeout": 10
         },
@@ -603,6 +606,24 @@
             "timeout": 30
         },
         {
+            "key": "我的迅雷",
+            "name": "⭐我的┃迅雷",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": {
+                "sp": "MyXunLei"
+            },
+            "timeout": 30
+        },
+        {
             "key": "️爱看Bot弹幕版",
             "name": "⛅️爱看┃弹幕",
             "type": 3,
@@ -628,7 +649,8 @@
             "filterable": 1,
             "ext": {
                 "sp": "Caiji",
-                "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+                "api": "http://dyttzy5.tv/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+                "exclude": "34",
                 "danmu": true
             },
             "timeout": 10
@@ -645,6 +667,7 @@
             "ext": {
                 "sp": "Caiji",
                 "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/m3u8/",
+                "exclude": "34",
                 "danmu": true
             },
             "timeout": 10
@@ -868,15 +891,15 @@
             "timeout": 10
         },
         {
-            "key": "六月听书",
-            "name": "🎤六月┃听书",
+            "key": "听悠听书",
+            "name": "🎤听悠┃听书",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "sp": "WeiTing"
+                "sp": "TingYou"
             },
             "timeout": 10
         },
@@ -1047,6 +1070,24 @@
             "timeout": 20
         },
         {
+            "key": "115分享",
+            "name": "🌷115┃分享",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": {
+                "sp": "Pan115Share"
+            },
+            "timeout": 30
+        },
+        {
             "key": "csp_AListGuard",
             "name": "🦋AList",
             "type": 3,
@@ -1120,15 +1161,15 @@
             "timeout": 25
         },
         {
-            "key": "影链",
-            "name": "🎞️影链┃搜索",
+            "key": "聚盘",
+            "name": "🎞️聚盘┃搜索",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "sp": "YingLian"
+                "sp": "JuPan"
             },
             "timeout": 25
         },
@@ -1572,7 +1613,7 @@
         }
     ],
     "proxy": [
-
+        "file://TV/proxy.json"
     ],
     "rules": [
         {
