@@ -19,7 +19,7 @@
 
 <http://www.饭太硬.com/tv>
 
-<https://cyao2q.github.io/files/m.json>
+<https://cyao2q.github.io/files/n.json>
 
 ## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf?pwd=666)
 
