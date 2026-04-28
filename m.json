@@ -23,20 +23,6 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "立播秒播",
-            "name": "立播秒播",
-            "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
             "key": "厂长秒播",
             "name": "厂长秒播",
             "type": 3,
@@ -59,6 +45,17 @@
             "changeable": 1
         },
         {
+            "key": "视界多线",
+            "name": "视界多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
+        },
+        {
             "key": "剧圈多线",
             "name": "剧圈多线",
             "type": 3,
@@ -67,27 +64,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprGv+T3siLQwtXglSghatTiFVdOcF8X8jEp+aRrf/FNw9F962OYcJdY2CMy/nlgFeo4R9+I8K2FSnLnGP2FxOijR2T52RQ6NwQWv5XyDxPxRcMHTslu7SYeFlb8EuDsyEz4Dg=="
-        },
-        {
-            "key": "鲸鱼多线",
-            "name": "鲸鱼多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
-        },
-        {
-            "key": "苹果影视",
-            "name": "苹果影视",
-            "type": 3,
-            "api": "csp_LiteAppleGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
         {
             "key": "csp_SP360",
@@ -147,16 +124,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/tuxiaobei.js"
-        },
-        {
-            "key": "巴士动漫",
-            "name": "巴士动漫",
-            "type": 3,
-            "api": "csp_Dm84Guard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "异界动漫",
@@ -251,21 +218,6 @@
                 "港台动漫",
                 "海外动漫"
             ]
-        },
-        {
-            "key": "玩偶哥哥",
-            "name": "玩偶哥哥",
-            "type": 3,
-            "api": "csp_WoGGGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto",
-                "siteUrl": "https://www.wogg.net/",
-                "danMu": "弹"
-            }
         },
         {
             "key": "YpanSo",

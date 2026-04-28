@@ -15,9 +15,11 @@
 
 <http://肥猫.com>
 
-<http://ok213.top/tv>
-
 <http://www.饭太硬.com/tv>
+
+<https://10352.kstore.vip/tv>
+
+<https://cyao2q.github.io/files/m.json>
 
 <https://cyao2q.github.io/files/n.json>
 
