@@ -1,0 +1,58 @@
+## TV盒子软件
+
+<https://github.com/o0HalfLife0o/TVBoxOSC/releases>
+
+## [支付宝捐赠](alipayqr://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx196307iezhvjarhfygd4)
+
+## 求捐赠 微信公众号 不会唱歌的鱼妖
+<img src="./images/donate.png" title="请使用微信扫码捐赠"/>
+
+## 聚合下载 <https://link3.cc/cyao>
+
+## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [OK版](https://cyao.lanzov.com/b038ypj3ze?pwd=666) [蜂蜜版](https://cyao.lanzov.com/b038z68a2j?pwd=666)
+
+配置地址选一个输入
+
+<http://肥猫.com>
+
+<http://www.饭太硬.com/tv>
+
+<https://cyao2q.github.io/files/m.json>
+
+<https://cyao2q.github.io/files/n.json>
+
+## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf?pwd=666)
+
+## 盒子软件
+
+[飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc) [当贝桌面](https://cyao.lanzov.com/iHODy16dojuj)
+
+[儿歌多多](https://cyao.lanzov.com/iNaO116domhe) [看电视](https://cyao.lanzov.com/iLlBk2uofwyd)
+
+## 油猴脚本
+
+[破解VIP会员视频](https://cyao2q.github.io/files/script/crack.video.js)
+
+[123云盘解锁](https://cyao2q.github.io/files/script/123pan.crack.js)
+
+## 阅读APP自用书源
+
+<https://cyao2q.github.io/yuedu/>
+
+## 广告过滤规则 <https://cyao2q.github.io/filters>
+
+<https://cyao2q.github.io/files/ext/EasyList.txt>
+
+<https://bitbucket.org/hacamer/adrules/raw/main/adblock.txt>
+
+<https://filters.adtidy.org/android/filters/2_optimized.txt>
+
+<https://filters.adtidy.org/android/filters/224_optimized.txt>
+
+<https://filters.adtidy.org/android/filters/11_optimized.txt>
+
+## A free CDN for Open Source
+
+<https://gh.cyao.workers.dev/>
+
+<https://www.jsdelivr.com/?docs=gh>
