@@ -47,6 +47,97 @@
             }
         },
         {
+            "key": "热播多线",
+            "name": "🎬热播┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU=",
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
+            "key": "视界多线",
+            "name": "🎬视界┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
+            "key": "剧圈多线",
+            "name": "🎬剧圈┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
+            "key": "厂长秒播",
+            "name": "📺厂长┃秒播",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
+            "key": "文采秒播",
+            "name": "📺文采┃秒播",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
+            "key": "360影视",
+            "name": "📺360┃影视",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
+            "key": "异界动漫",
+            "name": "👧异界┃动漫",
+            "type": 3,
+            "api": "csp_YsjGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
+            "key": "日本动漫",
+            "name": "👧日本┃动漫",
+            "type": 3,
+            "api": "csp_Anime1Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/Butterfly.jar;md5;1485C2A97E9F2160B419F37CC9517A8B"
+        },
+        {
             "key": "量子资源",
             "name": "🍊量子┃资源",
             "type": 0,
@@ -124,7 +215,7 @@
         },
         {
             "key": "二小弹幕",
-            "name": "🦢二小┃4K弹幕",
+            "name": "👦二小┃4K弹幕",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
@@ -139,7 +230,7 @@
         },
         {
             "key": "双星",
-            "name": "🤩双星┃4K弹幕",
+            "name": "⭐双星┃4K弹幕",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
@@ -185,7 +276,7 @@
         },
         {
             "key": "木偶弹幕",
-            "name": "🪵木偶┃4K弹幕",
+            "name": "🤖木偶┃4K弹幕",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
@@ -200,7 +291,7 @@
         },
         {
             "key": "多多弹幕",
-            "name": "🪅多多┃4K弹幕",
+            "name": "✨多多┃4K弹幕",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
@@ -1248,14 +1339,14 @@
     ],
     "parses": [
         {
-            "name": "聚合1",
-            "type": 3,
-            "url": "Demo"
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "聚合0",
-            "type": 3,
-            "url": "Web"
+            "name": "playm3u8",
+            "type": 0,
+            "url": "https://www.playm3u8.cn/jiexi.php?url="
         },
         {
             "name": "ikun",
@@ -1263,14 +1354,9 @@
             "url": "https://jx.hls.one/?url="
         },
         {
-            "name": "77",
+            "name": "77flv",
             "type": 0,
             "url": "https://jx.77flv.cc/?url="
-        },
-        {
-            "name": "A6",
-            "type": 0,
-            "url": "https://pl.a6club.com/player/analysis.php?v="
         },
         {
             "name": "8090",
@@ -1278,39 +1364,24 @@
             "url": "https://www.8090g.cn/?url="
         },
         {
-            "name": "M3u8TV",
+            "name": "m3u8",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
         },
         {
-            "name": "CK",
+            "name": "ck",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
         },
         {
-            "name": "冰豆",
+            "name": "bd",
             "type": 0,
             "url": "https://bd.jx.cn/?url="
         },
         {
-            "name": "XY",
+            "name": "xymp4",
             "type": 0,
             "url": "https://jx.xymp4.cc/?url="
-        },
-        {
-            "name": "推荐",
-            "type": 1,
-            "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="
-        },
-        {
-            "name": "臻享",
-            "type": 1,
-            "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
-        },
-        {
-            "name": "优选",
-            "type": 1,
-            "url": "http://1.94.221.189:88/algorithm.php?url="
         }
     ],
     "doh": [
