@@ -1,5 +1,6 @@
 {
     "spider": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928",
+    "logo": "./images/logo.jpg",
     "sites": [
         {
             "key": "豆豆推荐",
