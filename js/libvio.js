@@ -6,8 +6,8 @@ muban.首图2.二级.tabs = '.playlist-panel h3'
 var rule = {
 	title:'LIBVIO',
 	模板:'首图2',
-	host:'https://www.libvio.app/',
-	hostJs:'let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"#mod-backup&&a:eq(0)&&href");HOST=src;print(HOST)',
+	host:'https://www.libvio.run',
+	//hostJs:'let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"#mod-backup&&a:eq(0)&&href");HOST=src;print(HOST)',
 	url:'/show/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}--{{fl.lang}}----fypage---{{fl.year}}',

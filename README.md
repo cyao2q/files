@@ -11,15 +11,21 @@
 
 ## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [OK版](https://cyao.lanzov.com/b038ypj3ze?pwd=666) [蜂蜜版](https://cyao.lanzov.com/b038z68a2j?pwd=666)
 
-配置地址选一个输入
+配置地址选一个输入 不分先后
 
-<http://肥猫.com>
+<http://肥猫.net/>
 
-<http://www.饭太硬.com/tv>
+<http://www.饭太硬.cc/tv>
+
+<http://我不是.摸鱼儿.top>
+
+<http://tvbox.王二小放牛娃.top>
 
 <https://cyao2q.github.io/files/m.json>
 
-<https://cyao2q.github.io/files/n.json>
+<https://cyao2q.github.io/files/xs.json>
+
+<https://9877.kstore.space/ONE/one.json>
 
 ## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf?pwd=666)
 
