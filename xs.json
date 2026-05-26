@@ -30,6 +30,86 @@
             "api": "csp_LocalFile"
         },
         {
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "顾我99",
+            "name": "顾我丨APP",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://117.50.200.113:19987/app/bn",
+                "LoginPath": "/app/log",
+                "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+                "versionName": "4.3.1",
+                "name": "顾我追剧",
+                "package": "com.guwozhuijux.app",
+                "buildNumber": "2001",
+                "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
+            }
+        },
+        {
+            "key": "橙子99",
+            "name": "橙子丨APP",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://113.31.180.218:19987/app/bn",
+                "LoginPath": "/app/log",
+                "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+                "versionName": "4.3.1",
+                "name": "小橙子",
+                "package": "com.xchengzix.app",
+                "buildNumber": "2001",
+                "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+            }
+        },
+        {
+            "key": "听心99",
+            "name": "听心｜APP",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "https://api.12321app.com/api",
+                "LoginPath": "/app/log",
+                "appkey": "a0a18659a9977a47e53442cd084b536c",
+                "versionName": "2.8.1",
+                "name": "听心视频",
+                "package": "com.iksp.adsys.jjsp",
+                "buildNumber": "2001",
+                "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
+            }
+        },
+        {
+            "key": "橘汁",
+            "name": "橘汁｜APP",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "host": "",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
+                "decrypt": "1"
+            }
+        },
+        {
             "key": "热播多线",
             "name": "热播｜多线",
             "type": 3,
@@ -264,18 +344,6 @@
             "searchable": 0
         },
         {
-            "key": "热播影视",
-            "name": "热播｜APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
-        {
             "key": "三秋影视",
             "name": "三秋｜APP",
             "type": 3,
@@ -289,35 +357,19 @@
             "ext": "http://www.小不点.com/api/2026/fishhxq.php"
         },
         {
-            "key": "听心99",
-            "name": "听心｜APP",
+            "key": "咕噜99",
+            "name": "咕噜丨APP",
             "type": 3,
             "api": "csp_App99",
             "ext": {
-                "host": "https://api.12321app.com/api",
+                "host": "http://103.45.132.22:19987/app/bn",
                 "LoginPath": "/app/log",
-                "appkey": "a0a18659a9977a47e53442cd084b536c",
-                "versionName": "2.8.1",
-                "name": "听心视频",
-                "package": "com.iksp.adsys.jjsp",
+                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+                "versionName": "1.9.5",
+                "name": "咕噜咕噜",
+                "package": "com.bd.tool.gulu",
                 "buildNumber": "2001",
-                "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-            }
-        },
-        {
-            "key": "橙子99",
-            "name": "橙子丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://113.31.180.218:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-                "versionName": "4.3.1",
-                "name": "小橙子",
-                "package": "com.xchengzix.app",
-                "buildNumber": "2001",
-                "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
             }
         },
         {
@@ -334,22 +386,6 @@
                 "package": "com.android.packageinstaller",
                 "buildNumber": "2002",
                 "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-            }
-        },
-        {
-            "key": "咕噜99",
-            "name": "咕噜丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://103.45.132.22:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-                "versionName": "1.9.5",
-                "name": "咕噜咕噜",
-                "package": "com.bd.tool.gulu",
-                "buildNumber": "2001",
-                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
             }
         },
         {
@@ -384,22 +420,6 @@
             }
         },
         {
-            "key": "顾我99",
-            "name": "顾我丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://117.50.200.113:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "040f9b1bc5e942569b5c3e63943306ab",
-                "versionName": "4.3.1",
-                "name": "顾我追剧",
-                "package": "com.guwozhuijux.app",
-                "buildNumber": "2001",
-                "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
-            }
-        },
-        {
             "key": "天堂",
             "name": "天堂｜APP",
             "type": 3,
@@ -417,26 +437,6 @@
                 "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
                 "version": "3.0.0.7",
                 "decrypt": "0"
-            }
-        },
-        {
-            "key": "橘汁",
-            "name": "橘汁｜APP",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "appName": "橘汁",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.lxf.snzlcgtzxyx",
-                "host": "",
-                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "version": "3.0.2.1",
-                "decrypt": "1"
             }
         },
         {
