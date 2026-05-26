@@ -13,7 +13,7 @@
 
 配置地址选一个输入 不分先后
 
-<http://肥猫.net/>
+<http://肥猫.net/tv>
 
 <http://www.饭太硬.cc/tv>
 
