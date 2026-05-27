@@ -45,20 +45,6 @@
 
 <https://cyao2q.github.io/yuedu/>
 
-## 广告过滤规则 <https://cyao2q.github.io/filters>
+## 广告过滤规则
 
-<https://cyao2q.github.io/files/ext/EasyList.txt>
-
-<https://bitbucket.org/hacamer/adrules/raw/main/adblock.txt>
-
-<https://filters.adtidy.org/android/filters/2_optimized.txt>
-
-<https://filters.adtidy.org/android/filters/224_optimized.txt>
-
-<https://filters.adtidy.org/android/filters/11_optimized.txt>
-
-## A free CDN for Open Source
-
-<https://gh.cyao.workers.dev/>
-
-<https://www.jsdelivr.com/?docs=gh>
+<https://cyao2q.github.io/filters>
