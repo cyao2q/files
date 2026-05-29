@@ -344,12 +344,6 @@
             "searchable": 0
         },
         {
-            "key": "三秋影视",
-            "name": "三秋｜APP",
-            "type": 3,
-            "api": "csp_App3Q"
-        },
-        {
             "key": "韩圈",
             "name": "韩圈｜APP",
             "type": 3,
@@ -510,16 +504,6 @@
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
         },
         {
-            "key": "奴娜",
-            "name": "奴娜丨APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.nntv.in/api.php/v1.vod"
-        },
-        {
             "key": "闪影",
             "name": "闪影｜APP",
             "type": 3,
@@ -538,17 +522,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://qpcj.69mini.com/api.php/app/"
-        },
-        {
-            "key": "云播",
-            "name": "云播｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "host": "http://app.hktvyb.cc"
-            }
         },
         {
             "key": "首发",
@@ -978,17 +951,6 @@
             "genre": "shortdrama"
         },
         {
-            "key": "甜圈短剧",
-            "name": "甜圈｜短剧",
-            "type": 3,
-            "api": "csp_TianquanDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-        {
             "key": "独播影视",
             "name": "独播｜影视",
             "type": 3,
@@ -1010,13 +972,6 @@
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-        },
-        {
-            "key": "云播影视",
-            "name": "云播｜影视",
-            "type": 3,
-            "api": "csp_Tvyb",
-            "ext": "http://www.tvyb03.com"
         },
         {
             "key": "瓜子影视",
@@ -1048,13 +1003,6 @@
             "filterable": 1
         },
         {
-            "key": "小镇影视",
-            "name": "小镇｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/XZYS.json"
-        },
-        {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
@@ -1067,13 +1015,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
-        },
-        {
-            "key": "剧圈影视",
-            "name": "剧圈｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/JQYS.json"
         },
         {
             "key": "1905",
@@ -1156,41 +1097,10 @@
             }
         },
         {
-            "key": "花子动漫",
-            "name": "花子｜动漫",
-            "type": 3,
-            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/js/HZDM.js"
-        },
-        {
-            "key": "路漫漫",
-            "name": "路漫漫｜动漫",
-            "type": 3,
-            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/js/LMM.js"
-        },
-        {
             "key": "荐片",
             "name": "荐片｜磁力",
             "api": "csp_JianPian",
             "type": 3
-        },
-        {
-            "key": "修罗",
-            "name": "修罗｜磁力",
-            "api": "csp_Xlys",
-            "type": 3,
-            "ext": "https://xl02.com.de"
-        },
-        {
-            "key": "80S",
-            "name": "80S｜磁力",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "New6v",
