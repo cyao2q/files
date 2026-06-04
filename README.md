@@ -25,6 +25,8 @@
 
 <https://cyao2q.github.io/files/xs.json>
 
+<https://cyao2q.github.io/files/ok.json>
+
 <https://9877.kstore.space/ONE/one.json>
 
 ## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf?pwd=666)
