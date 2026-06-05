@@ -120,19 +120,33 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
-            "key": "厂长秒播",
-            "name": "厂长｜秒播",
+            "key": "糯米秒播",
+            "name": "糯米｜秒播",
             "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+        },
+        {
+            "key": "立播影视",
+            "name": "立播｜影视",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.life/"
+            },
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "文采秒播",
@@ -144,7 +158,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "播客多线",
@@ -156,19 +170,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru",
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
-        },
-        {
-            "key": "视界多线",
-            "name": "视界｜多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "剧圈多线",
@@ -180,7 +182,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "爱影多线",
@@ -192,7 +194,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv",
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "猫猫多线",
@@ -204,7 +206,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "奥特多线",
@@ -215,7 +217,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "新6V磁力",
@@ -227,17 +229,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/",
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
-        },
-        {
-            "key": "360影视",
-            "name": "360｜影视",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "巴士动漫",
@@ -248,7 +240,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "日本动漫",
@@ -258,7 +250,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928"
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
             "key": "量子资源",
@@ -682,11 +674,9 @@
             "changeable": 1,
             "ext": {
                 "site": [
+                    "https://www.wogg.net",
                     "https://wogg.xxooo.cf",
-                    "https://woggpan.888484.xyz",
-                    "https://wogg.333232.xyz",
-                    "http://woggpan.xxooo.cf",
-                    "https://www.wogg.one"
+                    "https://woggpan.xxooo.cf"
                 ]
             },
             "timeout": 60
@@ -740,11 +730,6 @@
                     "http://www.xiaocgege.shop",
                     "http://xiaocge.fun",
                     "http://feimo.fun",
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "http://www.labi88.sbs",
-                    "http://fmao.site",
-                    "http://fmao.shop",
                     "http://xiaocgege.shop"
                 ]
             },
@@ -763,10 +748,7 @@
                 "site": [
                     "https://mihdr.top",
                     "https://www.miqk.cc",
-                    "https://xiaomiai.site",
-                    "https://xiaomi666.fun",
-                    "https://www.mihdr.top",
-                    "https://www.zhizhenpan.fun"
+                    "https://www.mihdr.top"
                 ]
             },
             "timeout": 60
@@ -820,10 +802,8 @@
             "ext": {
                 "site": [
                     "https://www.2xiaopan.top",
-                    "https://2xiaopan.top",
                     "https://www.erxiaozhan.top",
-                    "https://www.2xiaozhan.top",
-                    "https://wexwp.cc"
+                    "https://www.2xiaozhan.top"
                 ]
             },
             "timeout": 60
@@ -840,22 +820,6 @@
             "ext": {
                 "site": [
                     "http://38.76.197.172:16969"
-                ]
-            },
-            "timeout": 60
-        },
-        {
-            "key": "夸克",
-            "name": "夸克｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareKK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.quarktv.cc"
                 ]
             },
             "timeout": 60
@@ -964,7 +928,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://czzyv.com"
+            "ext": "https://czzy.top"
         },
         {
             "key": "金牌影视",
@@ -1058,18 +1022,6 @@
                 "url": "https://www.cyfz.top",
                 "dataKey": "e72cdfd629e8895d",
                 "dataIv": "e72cdfd629e8895d"
-            }
-        },
-        {
-            "key": "番薯动漫",
-            "name": "番薯丨动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://new.app.bytegooty.com",
-                "dataKey": "N4yj7l7xKxHF4*gz",
-                "dataIv": "N4yj7l7xKxHF4*gz"
             }
         },
         {

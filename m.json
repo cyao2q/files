@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Bee.jar;md5;25F3F39DC525E9DF527C3D6B87DB6928",
+    "spider": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377",
     "logo": "./images/logo.jpg",
     "sites": [
         {
@@ -24,12 +24,11 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "厂长秒播",
-            "name": "厂长秒播",
+            "key": "糯米秒播",
+            "name": "糯米秒播",
             "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -46,6 +45,20 @@
             "changeable": 1
         },
         {
+            "key": "立播影视",
+            "name": "立播影视",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.life/"
+            }
+        },
+        {
             "key": "播客多线",
             "name": "播客多线",
             "type": 3,
@@ -55,17 +68,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-        },
-        {
-            "key": "视界多线",
-            "name": "视界多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
         },
         {
             "key": "剧圈多线",
@@ -120,15 +122,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
-        },
-        {
-            "key": "csp_SP360",
-            "name": "360影视",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "哔哩明星",

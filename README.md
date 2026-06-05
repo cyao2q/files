@@ -19,8 +19,6 @@
 
 <http://我不是.摸鱼儿.top>
 
-<http://tvbox.王二小放牛娃.top>
-
 <https://cyao2q.github.io/files/m.json>
 
 <https://cyao2q.github.io/files/xs.json>
