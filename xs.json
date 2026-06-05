@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Frog.jar;md5;3300F1F0C0D449F70AE56B6A95BC7150",
+    "spider": "./jar/Frog.jar;md5;28FC3A604E15E27585F2224DE18B4DD4",
     "logo": "./images/logo.jpg",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "sites": [
@@ -334,6 +334,12 @@
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
+        },
+        {
+            "key": "三秋影视",
+            "name": "三秋｜APP",
+            "type": 3,
+            "api": "csp_App3Q"
         },
         {
             "key": "韩圈",
