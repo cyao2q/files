@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377",
+    "spider": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15",
     "logo": "./images/logo.jpg",
     "sites": [
         {
@@ -38,6 +38,17 @@
             "name": "文采秒播",
             "type": 3,
             "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "厂长秒播",
+            "name": "厂长秒播",
+            "type": 3,
+            "api": "csp_NewCzGuard",
             "timeout": 10,
             "playerType": 2,
             "searchable": 1,

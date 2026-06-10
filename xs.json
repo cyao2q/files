@@ -120,7 +120,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "糯米秒播",
@@ -131,7 +131,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
+        },
+        {
+            "key": "厂长秒播",
+            "name": "厂长｜秒播",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "立播影视",
@@ -146,7 +158,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "siteUrl": "https://www.libvio.life/"
             },
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "文采秒播",
@@ -158,7 +170,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "播客多线",
@@ -170,7 +182,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru",
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "剧圈多线",
@@ -182,7 +194,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "爱影多线",
@@ -194,7 +206,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv",
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "猫猫多线",
@@ -206,7 +218,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "柚子多线",
@@ -218,7 +230,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+T3C3N68kGpjJMC8VQJRawVBonE2s7EhOq5X1M8s5yLMdsFXyX4lzV9ZNNh6RJzNuvLCVGCiCPOCweLv",
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "奥特多线",
@@ -229,7 +241,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "新6V磁力",
@@ -241,7 +253,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/",
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "巴士动漫",
@@ -252,7 +264,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "日本动漫",
@@ -262,7 +274,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
         },
         {
             "key": "量子资源",
