@@ -209,6 +209,18 @@
             "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
         },
         {
+            "key": "柚子多线",
+            "name": "柚子｜多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T3C3N68kGpjJMC8VQJRawVBonE2s7EhOq5X1M8s5yLMdsFXyX4lzV9ZNNh6RJzNuvLCVGCiCPOCweLv",
+            "jar": "./jar/Bee.jar;md5;9C7CAB7A3CF5E68B944BE17A450DA377"
+        },
+        {
             "key": "奥特多线",
             "name": "奥特｜多线",
             "type": 3,
