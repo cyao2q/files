@@ -389,22 +389,6 @@
             }
         },
         {
-            "key": "追番99",
-            "name": "追番｜APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "https://api.hboqy.cn.hboqy.cn/api",
-                "LoginPath": "/app/log",
-                "appkey": "a0a18659a9977a47e53442cd084b536c",
-                "versionName": "6.1.7",
-                "name": "追番达人",
-                "package": "com.android.packageinstaller",
-                "buildNumber": "2002",
-                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-            }
-        },
-        {
             "key": "剧圈99",
             "name": "剧圈丨APP",
             "type": 3,
