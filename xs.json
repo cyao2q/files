@@ -90,41 +90,6 @@
             }
         },
         {
-            "key": "橘汁",
-            "name": "橘汁｜APP",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "appName": "橘汁",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.lxf.snzlcgtzxyx",
-                "host": "",
-                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "version": "3.0.2.1",
-                "decrypt": "1"
-            }
-        },
-        {
-            "key": "易听音乐",
-            "name": "易听｜音乐",
-            "type": 3,
-            "api": "csp_MusicGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar": "./jar/Bee.jar;md5;8F59443D53D73EF5E34581B77E3C5A15"
-        },
-        {
             "key": "热播多线",
             "name": "热播｜多线",
             "type": 3,
@@ -431,6 +396,26 @@
                 "package": "com.yingfu.mobile.android.pgsp",
                 "buildNumber": "2003",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+            }
+        },
+        {
+            "key": "橘汁",
+            "name": "橘汁｜APP",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "host": "",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
+                "decrypt": "1"
             }
         },
         {

@@ -27,20 +27,6 @@
             }
         },
         {
-            "key": "易听音乐",
-            "name": "易听音乐",
-            "type": 3,
-            "api": "csp_MusicGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "热播多线",
             "name": "热播多线",
             "type": 3,
