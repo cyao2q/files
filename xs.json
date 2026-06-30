@@ -352,22 +352,6 @@
             "ext": "http://www.小不点.com/api/2026/fishhxq.php"
         },
         {
-            "key": "咕噜99",
-            "name": "咕噜丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://103.45.132.22:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-                "versionName": "1.9.5",
-                "name": "咕噜咕噜",
-                "package": "com.bd.tool.gulu",
-                "buildNumber": "2001",
-                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
-            }
-        },
-        {
             "key": "剧圈99",
             "name": "剧圈丨APP",
             "type": 3,
