@@ -501,9 +501,9 @@
                 // 自定义分享链接域名
                 if (menu_value('menu_customFileSha')) {f_sha1.innerText = f_sha1.innerText.replace(/\/\/.+\//i, '//' + menu_value('menu_customFileSha') + '/');}
                 // 打开分享链接
-                if (menu_value('menu_open_fileSha')) {f_sha.style.display = 'none';GM_openInTab(f_sha1.textContent, {active: true,insert: true,setParent: true});}
+                if (menu_value('menu_open_fileSha')) {f_sha.style.display = 'none';GM_openInTab(f_sha1.textContent.split('非会员')[0].trim(), {active: true,insert: true,setParent: true});}
                 // 复制分享链接（并已复制的提示信息）
-                if (menu_value('menu_copy_fileSha')) {f_sha.style.display = 'none';GM_setClipboard(f_sha1.textContent, 'text');GM_notification({text: '已复制分享链接~', timeout: 2000});}
+                if (menu_value('menu_copy_fileSha')) {f_sha.style.display = 'none';GM_setClipboard(f_sha1.textContent.split('非会员')[0].trim(), 'text');GM_notification({text: '已复制分享链接~', timeout: 2000});}
                 // 直接下载文件
                 //if (menu_value('menu_directDownload')) {f_sha.style.display = 'none';GM_openInTab(f_sha1.textContent + '#download', {active: false,insert: true,setParent: true});}
             }
