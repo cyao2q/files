@@ -17,13 +17,11 @@
 
 <http://www.饭太硬.cc/tv>
 
-<http://我不是.摸鱼儿.top>
+<https://9877.kstore.space/one.json>
 
 <https://cyao2q.github.io/files/m.json>
 
 <https://cyao2q.github.io/files/xs.json>
-
-<https://9877.kstore.space/ONE/one.json>
 
 ## TVBox [原版](https://cyao.lanzov.com/b038ypj4kf?pwd=666)
 
